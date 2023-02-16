@@ -1,0 +1,92 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+body{
+    background-image: url(im.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Work Sans", sans-serif;
+}
+.cont img{
+    margin-top: 10p;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+}
+.cont .icon i{
+    border-radius: 50%;
+    padding-top: 13px;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    font-size: 17px;
+    color:white;
+    background-color: rgb(182, 165, 140);
+    text-align: center;    
+
+}
+h1{
+    color:white;
+    font-size: 25px;
+
+}
+.nev{
+    margin-top: 30px;
+
+}
+.var i:hover{
+    color:  rgba(121, 84, 29);
+}
+.var{
+    margin-left: 50px;
+    font-size: 10px;
+    color:white;
+
+}
+.var i{
+    font-size: 20px;
+}
+.var h2{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.prof{
+    text-align: center;
+}
+.icon{
+    display: inline-flex;
+}
+.cont{
+    width: 350px;
+    height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(121, 84, 29, 0.5);
+}
+aside{
+    float: left;
+    width: 50%;
+}
+.contianer{
+    margin-top: 400px;
+    color: white;
+    line-height: .7;
+
+}
+.contianer h1{
+    font-size: 50px;
+}
+.contianer p{
+    font-size: 20px;
+}
+hr{
+    width: 200px;
+    text-align: left;
+    margin-right: 500px;
+    color: rgb(146, 114, 66);
+    ;
+}
